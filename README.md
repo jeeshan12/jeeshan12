@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeeshan12" alt="jeeshan12" /></a> </p>
 
-- 🔭 I’m currently working on [Cypress JSON Results](https://github.com/jeeshan12/cypress-json-results.git)
+- 🔭 I’m currently working on [Cypress API Testing](https://github.com/jeeshan12/cypress-api.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeeshan12](https://github.com/jeeshan12)
 
 - 💬 Ask me about **Test Automation**
 
-- 📫 How to reach me **mohdjeeshan007@gmail.com**
+- 📫 How to reach me **mohdjeeshan007@gmail.com** 
+
+- 📫 Peerlist **https://peerlist.io/mohdjeeshan**
 
 - ⚡ Fun fact **I am Cinephile**
 
