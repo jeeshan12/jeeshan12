@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohd Jeeshan</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Jeeshan</h1>
 <h3 align="center">A passionate Automation developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeeshan12" alt="jeeshan12" /></a> </p>
 
-- 🔭 I’m currently working on [Cypress API Testing](https://github.com/jeeshan12/cypress-api.git)
+- 🔭 I’m currently working on [Playwright Testing](https://github.com/jeeshan12/PlaywrightAutomation.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeeshan12](https://github.com/jeeshan12)
 
